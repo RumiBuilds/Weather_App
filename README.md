@@ -25,4 +25,4 @@ A modern Android Weather App that provides users with current weather informatio
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Weather_App.git
+   git clone https://github.com/RumiBuilds/Weather_App.git
