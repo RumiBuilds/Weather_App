@@ -31,3 +31,18 @@ A modern Android Weather App that provides users with current weather informatio
 - Wait for Gradle to finish syncing.
 - Add your Weather API key if required.
 - Build and run the application on an Android device or emulator.
+
+## API Key
+
+For security, API keys should not be uploaded directly to GitHub.
+
+Store your API key securely and make sure it is not committed to the repository.
+
+
+## Developer
+
+### Rimsha Tariq
+
+Computer Science Graduate
+
+⭐ If you like this project, feel free to give it a star!
