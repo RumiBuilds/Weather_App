@@ -23,6 +23,11 @@ A modern Android Weather App that provides users with current weather informatio
 
 ## Setup & Installation
 
-1. Clone this repository:
+- Clone this repository:
    ```bash
    git clone https://github.com/RumiBuilds/Weather_App.git
+
+- Open the project in Android Studio.
+- Wait for Gradle to finish syncing.
+- Add your Weather API key if required.
+- Build and run the application on an Android device or emulator.
